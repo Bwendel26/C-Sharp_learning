@@ -1,0 +1,13 @@
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\bin\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.exe
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\bin\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.deps.json
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\bin\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.runtimeconfig.json
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\bin\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.runtimeconfig.dev.json
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\bin\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.dll
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\bin\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.pdb
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\obj\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.csprojAssemblyReference.cache
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\obj\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.AssemblyInfoInputs.cache
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\obj\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.AssemblyInfo.cs
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\obj\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.csproj.CoreCompileInputs.cache
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\obj\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.dll
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\obj\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.pdb
+B:\dev\c#\learn\CompositionOOP2StringBuilder\CompositionOOP2StringBuilder\obj\Debug\netcoreapp3.1\CompositionOOP2StringBuilder.genruntimeconfig.cache
