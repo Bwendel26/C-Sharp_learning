@@ -1,0 +1,13 @@
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\bin\Debug\netcoreapp3.1\ComposicaoOOP.exe
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\bin\Debug\netcoreapp3.1\ComposicaoOOP.deps.json
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\bin\Debug\netcoreapp3.1\ComposicaoOOP.runtimeconfig.json
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\bin\Debug\netcoreapp3.1\ComposicaoOOP.runtimeconfig.dev.json
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\bin\Debug\netcoreapp3.1\ComposicaoOOP.dll
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\bin\Debug\netcoreapp3.1\ComposicaoOOP.pdb
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\obj\Debug\netcoreapp3.1\ComposicaoOOP.csprojAssemblyReference.cache
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\obj\Debug\netcoreapp3.1\ComposicaoOOP.AssemblyInfoInputs.cache
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\obj\Debug\netcoreapp3.1\ComposicaoOOP.AssemblyInfo.cs
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\obj\Debug\netcoreapp3.1\ComposicaoOOP.csproj.CoreCompileInputs.cache
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\obj\Debug\netcoreapp3.1\ComposicaoOOP.dll
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\obj\Debug\netcoreapp3.1\ComposicaoOOP.pdb
+B:\dev\c#\learn\ComposicaoOOP\ComposicaoOOP\obj\Debug\netcoreapp3.1\ComposicaoOOP.genruntimeconfig.cache
