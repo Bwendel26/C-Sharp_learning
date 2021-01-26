@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CfwSfauWEEXUVFUTRLbKJcV4u6NZeoV9wT1xhKTqNWsZzmT38/6MbA5UolnHtmMwYv8253lcWah00arKlvvOIQ==",
+  "dgSpecHash": "EFcpqmebNqypJ4Pj8I0sS4LK3WkVLcADL7uVKC/G2FUacGR+1WQspbLaxm6Sq+cVKXktL+mVU8SMUsWfceYnRQ==",
   "success": true,
-  "projectFilePath": "B:\\dev\\c#\\learn\\ComposicaoOOP\\ComposicaoOOP\\ComposicaoOOP.csproj",
+  "projectFilePath": "B:\\dev\\c#\\learn\\ComposicaoOOP\\ComposicaoOOP\\CompositionOOP.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

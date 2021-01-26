@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ComposicaoOOP.Entities
+namespace CompositionOOP.Entities
 {
     class Department
     {

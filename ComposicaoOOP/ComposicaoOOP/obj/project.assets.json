@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\dev\\c#\\learn\\ComposicaoOOP\\ComposicaoOOP\\ComposicaoOOP.csproj",
-      "projectName": "ComposicaoOOP",
-      "projectPath": "B:\\dev\\c#\\learn\\ComposicaoOOP\\ComposicaoOOP\\ComposicaoOOP.csproj",
+      "projectUniqueName": "B:\\dev\\c#\\learn\\ComposicaoOOP\\ComposicaoOOP\\CompositionOOP.csproj",
+      "projectName": "CompositionOOP",
+      "projectPath": "B:\\dev\\c#\\learn\\ComposicaoOOP\\ComposicaoOOP\\CompositionOOP.csproj",
       "packagesPath": "C:\\Users\\bwend\\.nuget\\packages\\",
       "outputPath": "B:\\dev\\c#\\learn\\ComposicaoOOP\\ComposicaoOOP\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,9 +1,9 @@
 ﻿using System;
-using ComposicaoOOP.Entities.Enums;
+using CompositionOOP.Entities.Enums;
 using System.Collections.Generic;
 
 
-namespace ComposicaoOOP.Entities
+namespace CompositionOOP.Entities
 {
     class Worker
     {

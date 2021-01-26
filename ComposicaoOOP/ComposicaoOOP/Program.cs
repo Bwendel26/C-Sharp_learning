@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Globalization;
-using ComposicaoOOP.Entities;
-using ComposicaoOOP.Entities.Enums;
+using CompositionOOP.Entities.Enums;
 
-namespace ComposicaoOOP
+namespace CompositionOOP
 {
     class Program
     {
