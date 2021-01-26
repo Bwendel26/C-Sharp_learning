@@ -1,1 +1,1 @@
-![Diagrama UML](./CompositionOOP2StringBuilder/imgs/uml_composition2.png)
+![Diagrama UML](./imgs/uml_composition2.png)
