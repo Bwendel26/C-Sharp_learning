@@ -1,0 +1,13 @@
+B:\dev\c#\learn\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.exe
+B:\dev\c#\learn\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.deps.json
+B:\dev\c#\learn\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.runtimeconfig.json
+B:\dev\c#\learn\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.runtimeconfig.dev.json
+B:\dev\c#\learn\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.dll
+B:\dev\c#\learn\HotelReservation\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.pdb
+B:\dev\c#\learn\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.csprojAssemblyReference.cache
+B:\dev\c#\learn\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.AssemblyInfoInputs.cache
+B:\dev\c#\learn\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.AssemblyInfo.cs
+B:\dev\c#\learn\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.csproj.CoreCompileInputs.cache
+B:\dev\c#\learn\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.dll
+B:\dev\c#\learn\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.pdb
+B:\dev\c#\learn\HotelReservation\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.genruntimeconfig.cache
