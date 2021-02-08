@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using HotelReservation.Entities.Exceptions;
 
 namespace HotelReservation.Entities
 {
@@ -16,6 +15,11 @@ namespace HotelReservation.Entities
         }
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Check-out date must be after check-in date!");
+            }
+
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -29,6 +33,16 @@ namespace HotelReservation.Entities
 
         public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            DateTime now = DateTime.Now;
+            if (checkIn < now || checkOut < now)
+            {
+                throw new DomainException("Reservation dates must be futures dates to be updated!");
+            }
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Check-out date must be after check-in date!");
+            }
+
             CheckIn = checkIn;
             CheckOut = checkOut;
         }
