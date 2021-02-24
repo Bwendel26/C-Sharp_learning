@@ -1,0 +1,13 @@
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.exe
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.deps.json
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.runtimeconfig.json
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.runtimeconfig.dev.json
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.dll
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\bin\Debug\netcoreapp3.1\InterfaceSolution.pdb
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.csprojAssemblyReference.cache
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.AssemblyInfoInputs.cache
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.AssemblyInfo.cs
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.csproj.CoreCompileInputs.cache
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.dll
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.pdb
+B:\dev\c#\learn\InterfaceSolution\InterfaceSolution\obj\Debug\netcoreapp3.1\InterfaceSolution.genruntimeconfig.cache

@@ -4,7 +4,8 @@ using web_api.Repository;
 using web_api.Models;
 
 namespace web_api.Controllers 
-{
+{   
+    [Route("api/[Controller]")]
     public class UserController : Controller {
 
         private readonly IUserRepository _userRepository;
