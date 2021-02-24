@@ -1,6 +1,6 @@
 ﻿namespace InterfaceSolution.Services
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService
     {
         public double Tax(double amount) 
         {
